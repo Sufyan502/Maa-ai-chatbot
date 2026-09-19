@@ -1,0 +1,6 @@
+{
+  "name": "Maa AI Chat — MaaProject Intelligent Chatbot",
+  "description": "Intelligent conversational assistant for MaaProject with verified knowledge-base RAG, multi-turn reasoning, problem reporting, navigation assistance, and test suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

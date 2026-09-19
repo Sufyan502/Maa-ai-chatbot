@@ -1,0 +1,1 @@
+The original Express server.ts is retained for traceability from the previous prototype. The patched requirements-compliant backend is backend/main.py (FastAPI + SQLite). The package scripts now use FastAPI as the primary backend.
